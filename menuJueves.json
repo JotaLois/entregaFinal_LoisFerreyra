@@ -1,0 +1,6 @@
+[
+    {"id":1, "nombre":"Pollo al horno", "imagen":"pollo.jpg", "precio":700},
+    {"id":2, "nombre":"Pastel de papa", "imagen":"pastel.jpg",  "precio":500},
+    {"id":3, "nombre":"Pastas", "imagen":"pastas.jpg", "precio":500},
+    {"id":4, "nombre":"Empanadas", "imagen":"empanadas.jpg", "precio":700}
+]

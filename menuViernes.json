@@ -1,0 +1,6 @@
+[
+    {"id":1, "nombre":"Napo con fritas", "imagen":"napo.jpg", "precio":500},
+   {"id":2, "nombre":"Suprema con ensalada", "imagen":"suprema.jpg",  "precio":400},
+   {"id":3, "nombre":"Pastas", "imagen":"pastas.jpg", "precio":500},
+   {"id":4, "nombre":"Empanadas", "imagen":"empanadas.jpg", "precio":700}
+]

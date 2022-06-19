@@ -1,0 +1,7 @@
+
+[
+    {"id":1, "nombre":"Filet", "imagen":"filet.jpg", "precio":700},
+    {"id":2, "nombre":"Bombas de papa", "imagen":"bombasDePapa.jpg", "precio":400},
+    {"id":3, "nombre":"Pastas", "imagen":"pastas.jpg", "precio":500},
+    {"id":4, "nombre":"Empanadas", "imagen":"empanadas.jpg", "precio":700}
+]

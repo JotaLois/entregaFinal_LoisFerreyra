@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    box-sizing: 0;
+}
+
+.bodyMenu {
+   
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(./images/09.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    width: 100vw;
+    height: 100%;
+    
+    
+}
+
+
+.bodyCarrito {
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(./images/09.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100%;
+}
+.cuerpo {
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items:center;
+
+}
+
+.img_carrito {
+    width: 194px;
+    height: 172px;
+}
+
+.cuerpo h1 {
+    color: azure;
+    background-color:rgb(240, 126, 102, 0.602);
+    font-family:sans-serif;
+    font-weight: bold;
+    padding: 1rem;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 2rem;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    text-shadow: 2px 2px 5px black;
+    
+}
+
+.botones {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin:1rem;
+    width: 75%;
+}
+
+.botonesDias{
+    display: flex;
+    flex-direction: row;
+    height: fit-content;
+}
+#comidas {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#btnPrincipal {
+    background-color: rgba(251, 244, 228, 0.602);
+    padding: 10px;
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(233, 232, 241);
+    text-shadow: 2px 2px 2px black;
+    border-radius: 5px;
+    
+}
+#btnPrincipal2 {
+    
+    padding: 10px;
+    font-weight: bolder;
+    font-size: larger;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+    border-radius: 5px;
+    background-color: rgba(251, 244, 228, 0.602);
+}
+#btnPrincipal3 {
+    
+    padding: 10px;
+    font-weight: bolder;
+    font-size: larger;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+    border-radius: 5px;
+    background-color: rgba(251, 244, 228, 0.602);
+}
+#btnPrincipal4 {
+    
+    padding: 10px;
+    font-weight: bolder;
+    font-size: larger;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+    border-radius: 5px;
+    background-color: rgba(251, 244, 228, 0.602);
+}
+#btnPrincipal5 {
+    
+    padding: 10px;
+    font-weight: bolder;
+    font-size: larger;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+    border-radius: 5px;
+    background-color: rgba(251, 244, 228, 0.6022);
+}
+
+#opcionesLunes {
+    visibility: hidden;
+    width: 190px;
+    height: fit-content;
+}
+#opcionesMartes {
+    visibility: hidden;
+    width: 190px;
+    height: fit-content;
+}
+#opcionesMiercoles {
+    visibility: hidden;
+    width: 190px;
+    height: fit-content;
+}
+#opcionesJueves {
+    visibility: hidden;
+    width: 190px;
+    height:fit-content;
+}
+#opcionesViernes {
+    visibility: hidden;
+    width: 190px;
+    height: fit-content;
+}
+
+.card img {
+    width: 175px;
+    height: 150px;
+}
+.card {
+    width: 180px;
+    height: 300px;
+}
+
+/*CARRITO*/
+
+.carritoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 5rem;
+    margin-top: 2rem;
+    font-family:sans-serif;
+    font-weight: bold;
+    color: azure;
+    text-shadow: 2px 2px 3px black;
+    border-radius: 10px;
+}
+
+#carritoParaRellenar {
+    display: flex;
+    align-content: stretch;
+    width: 500px;
+    text-shadow: none;
+    background-color: rgb(83, 111, 125, 0.602)
+}
+
+
+
+.contacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 5rem;
+    padding: 1rem;
+    background-color: rgb(137, 157, 168, 0.802);
+    border-radius: 10px;
+    width: 500px;
+    height: 250px;
+}
+.campos {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+}
+
+.principalCarrito {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    margin-top: 5rem;
+}
+.tituloCarrito {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.botonRetorno {
+    
+    margin-right: 12rem;
+    padding: 1rem;
+    background-color: rgb(137, 157, 168, 0.602);
+    color: azure;
+    width: 150px;
+    border-radius: 10px;
+}
+.tuEleccion {
+    margin-right: 21rem;
+    padding: 3px;
+}
+.botonCart{
+    background-color: aliceblue;
+}

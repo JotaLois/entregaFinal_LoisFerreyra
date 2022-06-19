@@ -1,0 +1,6 @@
+[
+    {"id":1, "nombre":"Costillitas", "imagen":"costillitas.jpg", "precio":600},
+    {"id":2, "nombre":"Guiso de lentejas", "imagen":"guiso.jpg",  "precio":600},
+    {"id":3, "nombre":"Pastas", "imagen":"pastas.jpg", "precio":500},
+    {"id":4, "nombre":"Empanadas", "imagen":"empanadas.jpg", "precio":700}
+]
